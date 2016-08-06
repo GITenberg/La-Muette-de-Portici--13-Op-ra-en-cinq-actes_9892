@@ -1,0 +1,35 @@
+_repo: La-Muette-de-Portici--13-Op-ra-en-cinq-actes_9892
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Scribe, Eugène
+    aliases:
+    - Scribe, Eugene
+    - Scribe, E. (Eugène)
+    - Scribe, Augustin Eugène
+    birthdate: 1791
+    deathdate: 1861
+    gutenberg_agent_id: '4444'
+    url: http://www.gutenberg.org/2009/agents/4444
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Scribe
+  - agent_name: Delavigne, Germain
+    birthdate: 1790
+    deathdate: 1868
+    gutenberg_agent_id: '4446'
+    url: http://www.gutenberg.org/2009/agents/4446
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9892'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcc 'ML'
+- GITenberg
+title: 'La Muette de Portici: Opéra en cinq actes'
+url: http://www.gutenberg.org/ebooks/9892
